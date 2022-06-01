@@ -1,3 +1,4 @@
+/*study*/
 #include <iostream>
 
 using namespace std;
